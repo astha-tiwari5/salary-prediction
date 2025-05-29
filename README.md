@@ -1,6 +1,6 @@
-# 📈 Salary Prediction using Linear Regression
+# 📈 Salary Prediction using Multiple Regression
 
-This project demonstrates a simple **Linear Regression** model built with Python and scikit-learn to predict salaries based on **age** and **years of experience**. It's a foundational machine learning project perfect for beginners who want to understand model training, evaluation, and visualization.
+This project demonstrates a simple **Multiple Regression** model built with Python and scikit-learn to predict salaries based on **age** and **years of experience**. It's a foundational machine learning project perfect for beginners who want to understand model training, evaluation, and visualization.
 
 ---
 
